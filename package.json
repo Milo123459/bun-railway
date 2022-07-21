@@ -1,0 +1,20 @@
+{
+  "name": "bun-railway",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Milo123459/bun-railway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Milo123459/bun-railway/issues"
+  },
+  "homepage": "https://github.com/Milo123459/bun-railway#readme",
+  "dependencies": {
+    "is-even": "^1.0.0"
+  }
+}
